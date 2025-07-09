@@ -1,11 +1,8 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
 
-import React from 'react';
-import { Container, Row, Col, Card, Button } from 'react-bootstrap';
+
+import './App.css'
+
+import { Container, Card, Button } from 'react-bootstrap';
 
 const App = () => {
 
